@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "20999454055",
+    "project_id": "vives-3dd6c",
+    "storage_bucket": "vives-3dd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20999454055:android:331467bc3dce3e212a03c2",
+        "android_client_info": {
+          "package_name": "com.Vives.vives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20999454055-ccfhr2776ag7f9oglsfjitu76j8s4rt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyA9paE8gsi3XbakTdoBODsPEbBS4fs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20999454055-ccfhr2776ag7f9oglsfjitu76j8s4rt2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20999454055-jbbbst4drnn9e2mpfnl17hs0kueev2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Vives.vives"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20999454055:android:15b79db4f582ccf92a03c2",
+        "android_client_info": {
+          "package_name": "com.example.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20999454055-ccfhr2776ag7f9oglsfjitu76j8s4rt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyA9paE8gsi3XbakTdoBODsPEbBS4fs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20999454055-ccfhr2776ag7f9oglsfjitu76j8s4rt2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20999454055-jbbbst4drnn9e2mpfnl17hs0kueev2s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Vives.vives"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
